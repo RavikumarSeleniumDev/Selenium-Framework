@@ -12,6 +12,7 @@ namespace TestGitHub
             Console.WriteLine("c sharp selenium");
             Console.ReadLine();
             Console.WriteLine("c sharp selenium1");
+            test
         }
     }
 }
