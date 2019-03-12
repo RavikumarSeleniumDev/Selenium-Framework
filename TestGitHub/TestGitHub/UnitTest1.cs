@@ -9,6 +9,7 @@ namespace TestGitHub
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("c sharp selenium");
         }
     }
 }
